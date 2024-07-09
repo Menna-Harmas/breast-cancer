@@ -1,6 +1,5 @@
-Here's a creative README for your GitHub project based on the breast cancer classification task you've completed:
 
-# 🎀 Breast Cancer Classifier: Unraveling the Pink Ribbon 🎀
+# 🎀 Breast Cancer Classifier 🎀
 
 ## 🔬 Project Overview
 
